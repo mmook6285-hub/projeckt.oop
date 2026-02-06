@@ -1,0 +1,15 @@
+E:\work\projeckt.oop\bin\Debug\net8.0\hospitalSystem.exe
+E:\work\projeckt.oop\bin\Debug\net8.0\hospitalSystem.deps.json
+E:\work\projeckt.oop\bin\Debug\net8.0\hospitalSystem.runtimeconfig.json
+E:\work\projeckt.oop\bin\Debug\net8.0\hospitalSystem.dll
+E:\work\projeckt.oop\bin\Debug\net8.0\hospitalSystem.pdb
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.AssemblyInfoInputs.cache
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.AssemblyInfo.cs
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.csproj.CoreCompileInputs.cache
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.sourcelink.json
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.dll
+E:\work\projeckt.oop\obj\Debug\net8.0\refint\hospitalSystem.dll
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.pdb
+E:\work\projeckt.oop\obj\Debug\net8.0\hospitalSystem.genruntimeconfig.cache
+E:\work\projeckt.oop\obj\Debug\net8.0\ref\hospitalSystem.dll

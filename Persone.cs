@@ -8,7 +8,7 @@ namespace hospitalSystem
 {
     internal class Persone
     {
-        private  int ID { get; set; }
+        protected  int ID { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
         public string Gender { get; set; }
@@ -23,7 +23,7 @@ namespace hospitalSystem
             Gender = gender;
             
         }
-        public void printData() {
+        public virtual void printData() {
             Console.WriteLine($"this Id : {ID} \nthis Nmae : {Name} \nthis Age :{Age} \nthis is Gender : {Gender}");
             Console.WriteLine("---------------------------g-------------------------------");
         

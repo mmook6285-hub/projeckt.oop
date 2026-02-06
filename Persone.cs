@@ -21,7 +21,7 @@ namespace hospitalSystem
         }
         public void printData() {
             Console.WriteLine($"this Id : {ID} \nthis Nmae : {Name} \nthis Age :{Age}");
-            Console.WriteLine("----------------------------------------------------------");
+            Console.WriteLine("---------------------------g-------------------------------");
         
         }
     }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace hospitalSystem
 {
-    internal class PatintMangmint
+    internal class PatintMangmint : LLnterface
     {
         private List<Patient> patients;
         public PatintMangmint()
@@ -22,11 +22,11 @@ namespace hospitalSystem
         }
 
         // Show Data
-        public void GetData() {
+        public void PrintData() {
 
             foreach (Patient pat in patients) {
 
-                Console.WriteLine($"name patint is : {pat.Name} \nAge patint is {pat.Age} \nGender patint is :{pat.Gender}");
+                Console.WriteLine($" this Id : {pat.IdPatient} \nname patint is : {pat.Name} \nAge patint is {pat.Age} \nGender patint is :{pat.Gender}");
 
             }        }
 

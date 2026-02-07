@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hospitalSystem
 {
-    internal class Persone
+    internal class Persone : LLnterface
     {
         protected  int ID { get; set; }
         public string Name { get; set; }
@@ -23,7 +23,7 @@ namespace hospitalSystem
             Gender = gender;
             
         }
-        public virtual void printData() {
+        public void PrintData() {
             Console.WriteLine($"this Id : {ID} \nthis Nmae : {Name} \nthis Age :{Age} \nthis is Gender : {Gender}");
             Console.WriteLine("---------------------------g-------------------------------");
         
